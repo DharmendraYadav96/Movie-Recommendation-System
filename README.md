@@ -4,6 +4,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Dataset](#dataset)
 - [Features](#features)
 - [Usage](#usage)
 
@@ -12,6 +13,8 @@
 
 This is a Movie Recommendation System implemented using the k-Nearest Neighbors algorithm. The system provides movie recommendations based on user preferences and similarities between users' movie-watching histories.
 
+## Dataset
+In the given dataset, we are given a lot of information about a particular movie. We need to restrict ourselves to the columns, Movie ID, Movie Name, IMDB Rating and binary indicators of different genres.
 
 ## Features
 
