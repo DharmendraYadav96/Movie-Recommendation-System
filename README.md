@@ -8,7 +8,7 @@ Build a recommender system which would recommend the 5 most similar movies to a 
 - [Dataset](#dataset)
 - [Features](#features)
 - [Usage](#usage)
-- [Future Work](#Future Work)
+- [Future Work](#future_work)
 
 ## Introduction
 A recommendation system is a type of algorithm designed to provide personalized suggestions or recommendations to users. These recommendations are typically based on the user's preferences, behavior, and historical interactions with a system or platform.
@@ -31,7 +31,7 @@ In the given dataset, we are given a lot of information about a particular movie
 
 ## Future Work
 1. Combining content-based algorithm: We plan to enhance the recommendation system by combining it with other recommendation algorithms, such as collaborative filtering or matrix factorization.
-2.  Deployment: We aim to deploy this recommendation system as a web application or API, making it accessible to a wider audience.
+2. Deployment: We aim to deploy this recommendation system as a web application or API, making it accessible to a wider audience.
 
 
 
