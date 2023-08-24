@@ -4,11 +4,11 @@
 Build a recommender system which would recommend the 5 most similar movies to a movie query.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Features](#features)
-- [Usage](#usage)
-- [Future Work](#future_work)
+- Introduction
+- Dataset
+- Features
+- Usage
+- Future Work
 
 ## Introduction
 A recommendation system is a type of algorithm designed to provide personalized suggestions or recommendations to users. These recommendations are typically based on the user's preferences, behavior, and historical interactions with a system or platform.
